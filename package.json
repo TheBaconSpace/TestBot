@@ -2,7 +2,7 @@
   "name": "testbot",
   "version": "1.0.0",
   "description": "24/7 Music Streaming Discord Bot framework for a server-radio, made for ease of use.",
-  "author": "Joann Mõndresku <joann@cernodile.com> (https://www.cernodile.com)",
+  "author": "Bacon_Space",
   "engines": {
     "node": "^5.x.x",
     "npm": ">=3.x.x"
@@ -10,7 +10,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/TeamCernodile/DiscordStreamer/"
+    "url": "https://github.com/TheBaconSpace/TestBot/"
   },
   "dependencies": {
     "discordstreamer": "^1.0.0",
