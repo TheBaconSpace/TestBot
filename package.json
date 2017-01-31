@@ -1,0 +1,26 @@
+{
+  "name": "testbot",
+  "version": "1.0.0",
+  "description": "24/7 Music Streaming Discord Bot framework for a server-radio, made for ease of use.",
+  "author": "Joann Mõndresku <joann@cernodile.com> (https://www.cernodile.com)",
+  "engines": {
+    "node": "^5.x.x",
+    "npm": ">=3.x.x"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TeamCernodile/DiscordStreamer/"
+  },
+  "dependencies": {
+    "discordstreamer": "^1.0.0",
+    "eris": "github:abalabahaha/Eris#dev",
+    "forever": "^0.15.3",
+    "rethinkdb": "^2.3.3",
+    "ytdl-core": "^0.7.17"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
